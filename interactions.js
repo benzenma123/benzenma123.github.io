@@ -508,7 +508,7 @@ function initChat() {
     "What's your stack?":
       "Linux for the OS. Python for tooling + automation. Bash because some things just need bash. Three.js + GSAP when the project wants to *show*. Vanilla everything — I prefer to know what's under the hood.",
     "What's next?":
-      "psst 🤫 there's a project brewing in the homelab — somewhere between a personal LLM, a homelab build, and a slightly unhinged second-brain. running on my own hardware, trained on me, with no one to ask what it's doing. =)) not ready to talk about it yet — when it's out you'll know. for now: mikuOS v2 + the labs are eating my evenings. watch this space.",
+      "psst 🤫 after a few months away I'm back to coding — currently working on CaramOS, a Linux project under the VN-Linux-Family GitHub organization. watch this space, more soon. =))",
   };
 
   const FALLBACK =
